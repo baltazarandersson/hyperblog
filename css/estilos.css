@@ -4,4 +4,6 @@ body
     font-family: 'Arial';
     color: rgb(26, 28, 32);
     background-color: whitesmoke;
+    font-style: italic;
+    font-family: 'Gill Sans';
 }
