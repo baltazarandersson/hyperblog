@@ -1,9 +1,22 @@
 body
 {
     text-align: center;
-    font-family: 'Arial';
     color: rgb(26, 28, 32);
     background-color: whitesmoke;
+<<<<<<< HEAD
     font-style: italic;
     font-family: 'Gill Sans';
+=======
+}
+div {
+    background-color: rgb(26, 28, 32);
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 20px;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana;
+    font-weight: bold;
+>>>>>>> cabecera
 }
