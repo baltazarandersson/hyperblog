@@ -7,9 +7,10 @@ body
     font-family: arial;
 }
 section {
+    border: 2px solid whitesmoke;
     position: relative;
     width: 70%;
-    height: 100vh;
+    height: 99vh;
     margin: auto;
     background-color: whitesmoke;
     box-shadow: 0px 0px 10px black;
