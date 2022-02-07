@@ -1,12 +1,24 @@
 body
 {
-    text-align: center;
+    text-align: start;
     color: rgb(26, 28, 32);
+    background-color: white;
+    margin: 0px;
+}
+section {
+    width: 70%;
+    margin: auto;
     background-color: whitesmoke;
-<<<<<<< HEAD
-    font-style: italic;
-    font-family: 'Gill Sans';
-=======
+}
+header {
+    width: 100%;
+    height: 50px;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    text-align: center;
 }
 div {
     background-color: rgb(26, 28, 32);
@@ -18,5 +30,4 @@ div {
     margin-right: auto;
     font-family: Verdana;
     font-weight: bold;
->>>>>>> cabecera
 }
